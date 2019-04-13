@@ -1,1 +1,1 @@
-flag{test_flag}
+SUSCTF{3_way_2_GET_f1ag}
